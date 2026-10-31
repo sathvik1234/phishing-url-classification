@@ -1,7 +1,18 @@
 # Phishing URL Classification Using Machine Learning and Deep Learning
 
+## Project Team
+
 **Course:** IAI600 – Group Project  
 **University:** University West
+
+This project was collaboratively developed by the following four team members:
+
+| No. | Name | GitHub Profile |
+|---|---|---|
+| 1 | Satvik Undi | [@sathvik1234](https://github.com/sathvik1234) |
+| 2 | Manoj Kumar Shanmugam | [@manojkumarshanmugam008](https://github.com/manojkumarshanmugam008) |
+| 3 | Vighnesh Samitha Nair Sureshkumar | [@Vikky0704](https://github.com/Vikky0704) |
+| 4 | Pavan Kumar Souda | [@pavansouda235](https://github.com/pavansouda235) |
 
 ## Project Overview
 
@@ -120,14 +131,13 @@ phishing-url-classification/
 └── .gitignore
 ```
 
-*The model and dataset filenames above should match the files actually included in the repository.*
 
 ## Installation and Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/sathvik1234/phishing-url-classification.git
 ```
 
 ### 2. Navigate to the project folder
